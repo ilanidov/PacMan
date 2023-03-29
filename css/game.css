@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+    background-color: rgb(17, 169, 169);
+}
+
+.cell {
+    border: 5px solid black;
+    font-size: large;
+    width: 100px;
+    height: 100px;
+    color: black;
+
+}
+
+table {
+    margin: auto;
+}
+
+
+.shown {
+    background-color: rgb(251, 251, 251);
+}
+
+footer {
+    font-size: larger;
+    font-style: oblique;
+}
+
+.score{
+    width: 450px;
+    height: 80px;
+    background-color: blue;
+    margin: auto;
+}
+    
+.funcs{
+    width: 450px;
+    height: 80px;
+    background-color:brown;
+    margin: auto;
+}
+
+.flag{
+    background-color: brown;
+}
